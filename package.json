@@ -1,5 +1,5 @@
 {
-  "name": "list.js",
+  "name": "@exeba/list.js",
   "version": "2.3.1",
   "description": "The perfect library for lists. Supports search, sort, filters and flexibility. Built to be invisible and work on existing HTML",
   "keywords": [
